@@ -12,4 +12,4 @@ repos:
         entry: dotnet test --no-restore --verbosity normal
         language: system
         pass_filenames: false
-        stages: [commit]
+        stages: [pre-commit]
