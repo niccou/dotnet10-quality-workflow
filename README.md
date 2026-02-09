@@ -60,7 +60,7 @@ cd src/App
 dotnet run
 ```
 
-L'API sera disponible à `http://localhost:5000` ou `https://localhost:5001`.
+L'API sera disponible à `http://localhost:5179` ou `https://localhost:7170`.
 
 ## Configuration du Quality Workflow
 
